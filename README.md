@@ -76,7 +76,7 @@ AxTextbox.OCX
 
 ## Built With
 
-- *Clasic and Beloved* **Visual Basic 6 - ServicePack 6**  (Visual Basic *is trademark of* <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3Ntvk?ver=f8e2&q=90&m=6&h=120&w=400&b=%23FFFFFFFF&l=f&o=t&aim=true" alt="x" style="zoom: 60%;" />)
+- *Clasic and Beloved* **Visual Basic 6 - ServicePack 6**  (Visual Basic *is trademark of* ![microsoft](https://user-images.githubusercontent.com/61160830/121991263-51a79a80-cd6d-11eb-9272-3e182ae38531.jpg))
 
 ## Versioning
 
