@@ -39,6 +39,7 @@ Begin VB.Form Form1
          Strikethrough   =   0   'False
       EndProperty
       ForeColor       =   0
+      FormatToString  =   8
       BorderColorOnFocus=   0
       CueTextColor    =   0
    End
@@ -695,9 +696,9 @@ Select Case Index
   Case 0
     AxTextBox1.CaseText = Normal
   Case 1
-    AxTextBox1.CaseText = LowerCase
-  Case 2
     AxTextBox1.CaseText = UpperCase
+  Case 2
+    AxTextBox1.CaseText = LowerCase
 End Select
 End Sub
 

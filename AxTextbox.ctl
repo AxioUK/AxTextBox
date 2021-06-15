@@ -26,10 +26,8 @@ Begin VB.UserControl AxTextBox
       Top             =   510
    End
    Begin VB.PictureBox pB 
-      Appearance      =   0  'Flat
-      BackColor       =   &H00FFFFFF&
+      AutoRedraw      =   -1  'True
       BorderStyle     =   0  'None
-      ForeColor       =   &H80000008&
       Height          =   540
       Left            =   75
       ScaleHeight     =   540
